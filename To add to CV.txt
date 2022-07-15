@@ -1,0 +1,13 @@
+Technical support level 2 (Firewall)
+• A2P/P2P SMS traffic management and monitoring (Firewall rules creation)
+• Detecting and blocking grey route leakages (off/on-net and international)
+• Traffic analysis and regular report generation for senior management and partners.
+• Installation and deployment of STP and SMS Firewall systems
+• Creating interconnections between network nodes according to protocols (SMPP, SS7, SIGTRAN,
+SIP, M3UA links).
+Technical support level 1 (VAS)
+• Monitoring, diagnosing anomalies, and troubleshooting VAS (value-added services):
+• Missed Call Alert (MCA)
+• Ring Back Tone (RBT)
+• Video Ring Back Tone (VRBT)
+• Gaming platform
